@@ -1,4 +1,4 @@
-# Desafio Fullstack Hubbi
+# Desafio Fullstack MosaicQ
 
 ##  Funcionalidades Principais
 
